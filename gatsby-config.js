@@ -9,7 +9,7 @@ module.exports = {
     siteMetadata: {
         title: `Jon believes in himself`,
         description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-        author: `JON BAU` //can also add email,socail media, key value pails, urls etc,
+        author: ` Jon the greatest of all time` //can also add email,socail media, key value pails, urls etc,
     },
     plugins: [
         `gatsby-plugin-react-helmet`,
